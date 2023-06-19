@@ -40,7 +40,7 @@ If you find any issues with the exercises, have suggestions for improvements, or
 ## Screenshots
 
 <!-- Add your screenshots below -->
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](https://github.com/abel-cosmic/nodeschool/blob/main/images/mainpage.png)
 
 ## Resources
 
