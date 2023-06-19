@@ -42,6 +42,8 @@ If you find any issues with the exercises, have suggestions for improvements, or
 <!-- Add your screenshots below -->
 ![Screenshot 1](https://github.com/abel-cosmic/nodeschool/blob/main/images/mainpage.png)
 
+![Screenshot 2]((https://github.com/abel-cosmic/nodeschool/blob/main/images/terminal%20overview.png))
+
 ## Resources
 
 - [nodeschool.io](https://nodeschool.io) - Official website for interactive Node.js and JavaScript tutorials
