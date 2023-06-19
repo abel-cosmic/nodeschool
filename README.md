@@ -9,7 +9,7 @@ To get started, make sure you have Node.js installed on your machine. You can do
 Once you have Node.js installed, follow the steps below:
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/learning-nodejs.git
+   git clone https://github.com/abel-cosmic/nodeschool-git
 
 2. Change to the project's directory:
 
@@ -23,7 +23,7 @@ Once you have Node.js installed, follow the steps below:
 
 The repository is organized into directories for each module or lesson, containing the related exercises, solutions, and notes. Here's an overview of the directory structure:
 
-- `01-introduction` - Introduction to Node.js and JavaScript
+- 'introduction` - Introduction to Node.js and JavaScript
 - `02-async-basics` - Asynchronous programming basics
 - `03-stream-adventure` - Stream handling in Node.js
 - `04-learn-you-node` - Learn the basics of Node.js
@@ -36,6 +36,11 @@ Feel free to explore and work through the exercises at your own pace.
 ## Contributing
 
 If you find any issues with the exercises, have suggestions for improvements, or want to add your own solutions, feel free to submit a pull request. Contributions are welcome!
+
+## Screenshots
+
+<!-- Add your screenshots below -->
+![Screenshot 1](screenshots/screenshot1.png)
 
 ## Resources
 
