@@ -13,4 +13,3 @@ const a = 1; const b = 2; const c = 3;
 		})()
 	})()
 })()
-//output should be a:1, b: 8, c: 6
